@@ -24,8 +24,8 @@ android {
         applicationId "com.cogzidel.file"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 8
-        versionName "1.0.9"
+        versionCode 9
+        versionName "1.0.10"
         multiDexEnabled true
 
         vectorDrawables.useSupportLibrary = true
